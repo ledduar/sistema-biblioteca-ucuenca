@@ -1,0 +1,14 @@
+{
+    "sessionToken": "2b6afc628371bb28b64e346ee5e21ec782ed2ef5aa090fff0c",
+    "sessionExpires": "2022-07-08T21:06:21+0000",
+    "userId": "26",
+    "isAuthenticated": true,
+    "version": "2.8",
+    "links": [
+        {
+            "href": "http://10.22.114.5/booked/Web/Services/index.php/Authentication/SignOut",
+            "title": "logout"
+        }
+    ],
+    "message": null
+}

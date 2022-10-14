@@ -1,0 +1,538 @@
+{
+    "reservations": [
+        {
+            "referenceNumber": "62c60ed8715ea555671424",
+            "startDate": "2022-07-08T18:00:00+0000",
+            "endDate": "2022-07-08T22:00:00+0000",
+            "firstName": "RICHARD ANTHONY",
+            "lastName": "NEGRON CARRION",
+            "resourceName": "SICED",
+            "title": "Sesión de estudios",
+            "description": "0150371086",
+            "requiresApproval": false,
+            "isRecurring": false,
+            "scheduleId": "1",
+            "userId": "3",
+            "resourceId": "3",
+            "duration": "4 horas",
+            "bufferTime": "",
+            "bufferedStartDate": "2022-07-08T18:00:00+0000",
+            "bufferedEndDate": "2022-07-08T22:00:00+0000",
+            "participants": [],
+            "invitees": [],
+            "participatingGuests": [],
+            "invitedGuests": [],
+            "startReminder": null,
+            "endReminder": null,
+            "color": "#0f34a3",
+            "textColor": "#FFFFFF",
+            "checkInDate": "",
+            "checkOutDate": "",
+            "originalEndDate": "",
+            "isCheckInEnabled": false,
+            "autoReleaseMinutes": null,
+            "resourceStatusId": "1",
+            "creditsConsumed": null,
+            "links": [
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Resources/3",
+                    "title": "get_resource"
+                },
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Reservations/62c60ed8715ea555671424",
+                    "title": "get_reservation"
+                },
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Users/3",
+                    "title": "get_user"
+                },
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Schedules/1",
+                    "title": "get_schedule"
+                }
+            ],
+            "message": null
+        },
+        {
+            "referenceNumber": "62c868d9b54ec568315558",
+            "startDate": "2022-07-08T18:00:00+0000",
+            "endDate": "2022-07-08T21:00:00+0000",
+            "firstName": "SERGIO RUBEN",
+            "lastName": "CAJAMARCA QUINTUNA",
+            "resourceName": "Amanuense",
+            "title": "sesión de estudio",
+            "description": "0151151040",
+            "requiresApproval": false,
+            "isRecurring": false,
+            "scheduleId": "1",
+            "userId": "7",
+            "resourceId": "5",
+            "duration": "3 horas",
+            "bufferTime": "",
+            "bufferedStartDate": "2022-07-08T18:00:00+0000",
+            "bufferedEndDate": "2022-07-08T21:00:00+0000",
+            "participants": [],
+            "invitees": [],
+            "participatingGuests": [],
+            "invitedGuests": [],
+            "startReminder": null,
+            "endReminder": null,
+            "color": "#1b0aff",
+            "textColor": "#FFFFFF",
+            "checkInDate": "",
+            "checkOutDate": "",
+            "originalEndDate": "",
+            "isCheckInEnabled": false,
+            "autoReleaseMinutes": null,
+            "resourceStatusId": "1",
+            "creditsConsumed": null,
+            "links": [
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Resources/5",
+                    "title": "get_resource"
+                },
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Reservations/62c868d9b54ec568315558",
+                    "title": "get_reservation"
+                },
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Users/7",
+                    "title": "get_user"
+                },
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Schedules/1",
+                    "title": "get_schedule"
+                }
+            ],
+            "message": null
+        },
+        {
+            "referenceNumber": "62c76bda0e0af378755688",
+            "startDate": "2022-07-08T18:30:00+0000",
+            "endDate": "2022-07-08T21:30:00+0000",
+            "firstName": "PAOLA DEL ROCIO",
+            "lastName": "AMAYA ARCE",
+            "resourceName": "TESAURO",
+            "title": "Estudio",
+            "description": "",
+            "requiresApproval": false,
+            "isRecurring": false,
+            "scheduleId": "1",
+            "userId": "10",
+            "resourceId": "4",
+            "duration": "3 horas",
+            "bufferTime": "",
+            "bufferedStartDate": "2022-07-08T18:30:00+0000",
+            "bufferedEndDate": "2022-07-08T21:30:00+0000",
+            "participants": [],
+            "invitees": [],
+            "participatingGuests": [],
+            "invitedGuests": [],
+            "startReminder": null,
+            "endReminder": null,
+            "color": "#ff5900",
+            "textColor": "#000000",
+            "checkInDate": "",
+            "checkOutDate": "",
+            "originalEndDate": "",
+            "isCheckInEnabled": false,
+            "autoReleaseMinutes": null,
+            "resourceStatusId": "1",
+            "creditsConsumed": null,
+            "links": [
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Resources/4",
+                    "title": "get_resource"
+                },
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Reservations/62c76bda0e0af378755688",
+                    "title": "get_reservation"
+                },
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Users/10",
+                    "title": "get_user"
+                },
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Schedules/1",
+                    "title": "get_schedule"
+                }
+            ],
+            "message": null
+        },
+        {
+            "referenceNumber": "62c874d10d2a5213903733",
+            "startDate": "2022-07-08T19:00:00+0000",
+            "endDate": "2022-07-08T21:00:00+0000",
+            "firstName": "LUIS ENRIQUE",
+            "lastName": "LESCANO BORREGO",
+            "resourceName": "Signatura",
+            "title": "Sesión de estudios",
+            "description": "0106039134",
+            "requiresApproval": false,
+            "isRecurring": false,
+            "scheduleId": "1",
+            "userId": "8",
+            "resourceId": "9",
+            "duration": "2 horas",
+            "bufferTime": "",
+            "bufferedStartDate": "2022-07-08T19:00:00+0000",
+            "bufferedEndDate": "2022-07-08T21:00:00+0000",
+            "participants": [],
+            "invitees": [],
+            "participatingGuests": [],
+            "invitedGuests": [],
+            "startReminder": null,
+            "endReminder": null,
+            "color": "#03ad00",
+            "textColor": "#FFFFFF",
+            "checkInDate": "",
+            "checkOutDate": "",
+            "originalEndDate": "",
+            "isCheckInEnabled": false,
+            "autoReleaseMinutes": null,
+            "resourceStatusId": "1",
+            "creditsConsumed": null,
+            "links": [
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Resources/9",
+                    "title": "get_resource"
+                },
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Reservations/62c874d10d2a5213903733",
+                    "title": "get_reservation"
+                },
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Users/8",
+                    "title": "get_user"
+                },
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Schedules/1",
+                    "title": "get_schedule"
+                }
+            ],
+            "message": null
+        },
+        {
+            "referenceNumber": "62c75988434a9753311985",
+            "startDate": "2022-07-08T19:00:00+0000",
+            "endDate": "2022-07-08T21:00:00+0000",
+            "firstName": "IVAN MARCELO",
+            "lastName": "VERDUGO BRAVO",
+            "resourceName": "Dewey",
+            "title": "Sesión de estudios",
+            "description": "(0106951858)",
+            "requiresApproval": false,
+            "isRecurring": false,
+            "scheduleId": "1",
+            "userId": "5",
+            "resourceId": "1",
+            "duration": "2 horas",
+            "bufferTime": "",
+            "bufferedStartDate": "2022-07-08T19:00:00+0000",
+            "bufferedEndDate": "2022-07-08T21:00:00+0000",
+            "participants": [],
+            "invitees": [],
+            "participatingGuests": [],
+            "invitedGuests": [],
+            "startReminder": null,
+            "endReminder": null,
+            "color": "#0fa312",
+            "textColor": "#FFFFFF",
+            "checkInDate": "",
+            "checkOutDate": "",
+            "originalEndDate": "",
+            "isCheckInEnabled": false,
+            "autoReleaseMinutes": null,
+            "resourceStatusId": "1",
+            "creditsConsumed": null,
+            "links": [
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Resources/1",
+                    "title": "get_resource"
+                },
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Reservations/62c75988434a9753311985",
+                    "title": "get_reservation"
+                },
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Users/5",
+                    "title": "get_user"
+                },
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Schedules/1",
+                    "title": "get_schedule"
+                }
+            ],
+            "message": null
+        },
+        {
+            "referenceNumber": "62c860d85c518224887262",
+            "startDate": "2022-07-08T19:00:00+0000",
+            "endDate": "2022-07-08T21:00:00+0000",
+            "firstName": "SERGIO RUBEN",
+            "lastName": "CAJAMARCA QUINTUNA",
+            "resourceName": "Colofón",
+            "title": "sesión de estudio",
+            "description": "0107564452",
+            "requiresApproval": false,
+            "isRecurring": false,
+            "scheduleId": "1",
+            "userId": "7",
+            "resourceId": "7",
+            "duration": "2 horas",
+            "bufferTime": "",
+            "bufferedStartDate": "2022-07-08T19:00:00+0000",
+            "bufferedEndDate": "2022-07-08T21:00:00+0000",
+            "participants": [],
+            "invitees": [],
+            "participatingGuests": [],
+            "invitedGuests": [],
+            "startReminder": null,
+            "endReminder": null,
+            "color": "#0a1bff",
+            "textColor": "#FFFFFF",
+            "checkInDate": "",
+            "checkOutDate": "",
+            "originalEndDate": "",
+            "isCheckInEnabled": false,
+            "autoReleaseMinutes": null,
+            "resourceStatusId": "1",
+            "creditsConsumed": null,
+            "links": [
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Resources/7",
+                    "title": "get_resource"
+                },
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Reservations/62c860d85c518224887262",
+                    "title": "get_reservation"
+                },
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Users/7",
+                    "title": "get_user"
+                },
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Schedules/1",
+                    "title": "get_schedule"
+                }
+            ],
+            "message": null
+        },
+        {
+            "referenceNumber": "62c86046da470768676503",
+            "startDate": "2022-07-08T19:00:00+0000",
+            "endDate": "2022-07-08T21:00:00+0000",
+            "firstName": "SERGIO RUBEN",
+            "lastName": "CAJAMARCA QUINTUNA",
+            "resourceName": "Tesauro",
+            "title": "sesión de estudio",
+            "description": "0943005546",
+            "requiresApproval": false,
+            "isRecurring": false,
+            "scheduleId": "1",
+            "userId": "7",
+            "resourceId": "6",
+            "duration": "2 horas",
+            "bufferTime": "",
+            "bufferedStartDate": "2022-07-08T19:00:00+0000",
+            "bufferedEndDate": "2022-07-08T21:00:00+0000",
+            "participants": [],
+            "invitees": [],
+            "participatingGuests": [],
+            "invitedGuests": [],
+            "startReminder": null,
+            "endReminder": null,
+            "color": "#ffffff",
+            "textColor": "#000000",
+            "checkInDate": "",
+            "checkOutDate": "",
+            "originalEndDate": "",
+            "isCheckInEnabled": false,
+            "autoReleaseMinutes": null,
+            "resourceStatusId": "1",
+            "creditsConsumed": null,
+            "links": [
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Resources/6",
+                    "title": "get_resource"
+                },
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Reservations/62c86046da470768676503",
+                    "title": "get_reservation"
+                },
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Users/7",
+                    "title": "get_user"
+                },
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Schedules/1",
+                    "title": "get_schedule"
+                }
+            ],
+            "message": null
+        },
+        {
+            "referenceNumber": "62c83e8325ad3974528301",
+            "startDate": "2022-07-08T20:00:00+0000",
+            "endDate": "2022-07-08T23:00:00+0000",
+            "firstName": "MARLENE BEATRIZ",
+            "lastName": "QUINDE CORDERO",
+            "resourceName": "Miscelanea",
+            "title": "Sesión de estudio",
+            "description": "0105836712",
+            "requiresApproval": false,
+            "isRecurring": false,
+            "scheduleId": "1",
+            "userId": "9",
+            "resourceId": "8",
+            "duration": "3 horas",
+            "bufferTime": "",
+            "bufferedStartDate": "2022-07-08T20:00:00+0000",
+            "bufferedEndDate": "2022-07-08T23:00:00+0000",
+            "participants": [],
+            "invitees": [],
+            "participatingGuests": [],
+            "invitedGuests": [],
+            "startReminder": null,
+            "endReminder": null,
+            "color": "#ff8d0a",
+            "textColor": "#000000",
+            "checkInDate": "",
+            "checkOutDate": "",
+            "originalEndDate": "",
+            "isCheckInEnabled": false,
+            "autoReleaseMinutes": null,
+            "resourceStatusId": "1",
+            "creditsConsumed": null,
+            "links": [
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Resources/8",
+                    "title": "get_resource"
+                },
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Reservations/62c83e8325ad3974528301",
+                    "title": "get_reservation"
+                },
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Users/9",
+                    "title": "get_user"
+                },
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Schedules/1",
+                    "title": "get_schedule"
+                }
+            ],
+            "message": null
+        },
+        {
+            "referenceNumber": "62c77715a75db879797959",
+            "startDate": "2022-07-08T21:00:00+0000",
+            "endDate": "2022-07-09T00:00:00+0000",
+            "firstName": "PAOLA DEL ROCIO",
+            "lastName": "AMAYA ARCE",
+            "resourceName": "Dewey",
+            "title": "Estudio",
+            "description": "",
+            "requiresApproval": false,
+            "isRecurring": false,
+            "scheduleId": "1",
+            "userId": "10",
+            "resourceId": "1",
+            "duration": "3 horas",
+            "bufferTime": "",
+            "bufferedStartDate": "2022-07-08T21:00:00+0000",
+            "bufferedEndDate": "2022-07-09T00:00:00+0000",
+            "participants": [],
+            "invitees": [],
+            "participatingGuests": [],
+            "invitedGuests": [],
+            "startReminder": null,
+            "endReminder": null,
+            "color": "#0fa312",
+            "textColor": "#FFFFFF",
+            "checkInDate": "",
+            "checkOutDate": "",
+            "originalEndDate": "",
+            "isCheckInEnabled": false,
+            "autoReleaseMinutes": null,
+            "resourceStatusId": "1",
+            "creditsConsumed": null,
+            "links": [
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Resources/1",
+                    "title": "get_resource"
+                },
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Reservations/62c77715a75db879797959",
+                    "title": "get_reservation"
+                },
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Users/10",
+                    "title": "get_user"
+                },
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Schedules/1",
+                    "title": "get_schedule"
+                }
+            ],
+            "message": null
+        },
+        {
+            "referenceNumber": "62c759fd1a6cd734589101",
+            "startDate": "2022-07-11T13:30:00+0000",
+            "endDate": "2022-07-11T15:30:00+0000",
+            "firstName": "IVAN MARCELO",
+            "lastName": "VERDUGO BRAVO",
+            "resourceName": "SICED",
+            "title": "Sesión de estudios",
+            "description": "DTIC",
+            "requiresApproval": false,
+            "isRecurring": false,
+            "scheduleId": "1",
+            "userId": "5",
+            "resourceId": "3",
+            "duration": "2 horas",
+            "bufferTime": "",
+            "bufferedStartDate": "2022-07-11T13:30:00+0000",
+            "bufferedEndDate": "2022-07-11T15:30:00+0000",
+            "participants": [],
+            "invitees": [],
+            "participatingGuests": [],
+            "invitedGuests": [],
+            "startReminder": null,
+            "endReminder": null,
+            "color": "#0f34a3",
+            "textColor": "#FFFFFF",
+            "checkInDate": "",
+            "checkOutDate": "",
+            "originalEndDate": "",
+            "isCheckInEnabled": false,
+            "autoReleaseMinutes": null,
+            "resourceStatusId": "1",
+            "creditsConsumed": null,
+            "links": [
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Resources/3",
+                    "title": "get_resource"
+                },
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Reservations/62c759fd1a6cd734589101",
+                    "title": "get_reservation"
+                },
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Users/5",
+                    "title": "get_user"
+                },
+                {
+                    "href": "http://10.22.114.5/booked/Web/Services/index.php/Schedules/1",
+                    "title": "get_schedule"
+                }
+            ],
+            "message": null
+        }
+    ],
+    "startDateTime": "2022-07-08T22:09:07+0200",
+    "endDateTime": "2022-07-22T22:09:07+0200",
+    "links": [],
+    "message": null
+}

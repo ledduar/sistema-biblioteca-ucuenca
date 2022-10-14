@@ -1,0 +1,1 @@
+Chromium-browser –noerrors –disable-session-crashed-bubble --start-fullscreen –incognito http://10.22.114.5/reserva-biblioteca-ucuenca
